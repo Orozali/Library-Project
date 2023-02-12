@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="practice_with_library" />
+        <module name="Library-Project" />
       </profile>
     </annotationProcessing>
   </component>
